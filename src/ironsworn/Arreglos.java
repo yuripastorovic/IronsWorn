@@ -8,6 +8,6 @@ package ironsworn;
  *
  * @author @yuripastorovic
  */
-public class Vikti extends Jugador{
+public class Arreglos {
     
 }

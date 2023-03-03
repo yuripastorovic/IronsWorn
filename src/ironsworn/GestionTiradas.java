@@ -8,6 +8,6 @@ package ironsworn;
  *
  * @author @yuripastorovic
  */
-public class EinarOrbar {
+public class GestionTiradas {
     
 }
